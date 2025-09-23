@@ -1,6 +1,14 @@
 body {
-    background-color: blue;
-    color: aliceblue;
+    background-color: blue;  /* cor de fundo */
+    color: aliceblue;   /*cor da letra*/
+    margin: 0px;   /* espaço antes da borda  */
+}
+
+header {
+    border-bottom: solid 2px white; 
+    padding: 20px;  /* espaçamento depois da borda e antes do conteúdo */
+    font-size: 32px;
+    color: white;
 }
 
 h1 {
