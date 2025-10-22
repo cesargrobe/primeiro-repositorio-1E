@@ -3,6 +3,7 @@ body {
     color: aliceblue;   /*cor da letra*/
     margin: 0px;   /* espaço antes da borda  */
     font-family: "Roboto Condensed", sans-serif;
+    margin-bottom: 100px;
 }
 
 header {
